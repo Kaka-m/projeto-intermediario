@@ -1,5 +1,6 @@
 Kauan Deivid Alves Morais 07/10/2026 
-A justificativa do tema foi basicamente que eu já tinha o projeto base pronto, só precisaria de algumas adições com arquitetura MVVM e o Room Database, esse app está sujeito a alterações e correções de erros
+A justificativa do tema foi basicamente que eu já tinha o projeto base pronto, só precisaria de algumas adições com arquitetura MVVM e o Room Database, esse app está sujeito a alterações e correções de erros.
+
 Descrição do funcionamento do aplicativo
 
 O aplicativo é um gerenciador de tarefas (lista de afazeres) para Android, desenvolvido em Kotlin com Jetpack Compose. Ele permite cadastrar, consultar, concluir e excluir tarefas, e mantém tudo salvo no próprio aparelho com um banco de dados local (Room), organizado na arquitetura MVVM.
